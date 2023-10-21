@@ -243,9 +243,9 @@ def dorkscan(dork):
 			#error = error + 1
 			pass
 		#if os.name == 'nt':
-			#ctypes.windll.kernel32.SetConsoleTitleW('BING | OVERTHINKER1877 | SITE-{} | ERROR-{}'.format(site,error))
+			#ctypes.windll.kernel32.SetConsoleTitleW('BING | Exp1o5iveDisorder | SITE-{} | ERROR-{}'.format(site,error))
 		#else :
-			#sys.stdout.write('\x1b]2; BING | OVERTHINKER1877 | SITE-{} | ERROR-{}\x07'.format(site,error))
+			#sys.stdout.write('\x1b]2; BING | Exp1o5iveDisorder | SITE-{} | ERROR-{}\x07'.format(site,error))
 
 
 print("""{}
